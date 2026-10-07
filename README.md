@@ -1,6 +1,6 @@
 # User Management & Messaging Tool
 
-A client–server application where users can register, authenticate, exchange messages, and (as admins) manage other users. Built for the 1st Assignment with Java sockets and a PostgreSQL database.
+A client–server application where users can register, authenticate, exchange messages, and (as admins) manage other users. Built with Java sockets and a PostgreSQL database.
 
 ## Features
 
